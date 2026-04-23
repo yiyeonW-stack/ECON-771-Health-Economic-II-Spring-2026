@@ -1,0 +1,27 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	Local Linear	Quadratic	Cubic	Quartic
+				
+belowBench2006	0*	-0**	-0**	-0**
+	(0)	(0)	(0)	(0)
+LISPremiumNeg	1***	1***	1***	1***
+	(0)	(0)	(0)	(0)
+LISPremiumPos	1***	1***	1***	1***
+	(0)	(0)	(0)	(0)
+LISPremiumNegSq		-0**	-0**	-0**
+		(0)	(0)	(0)
+LISPremiumPosSq		0**	0**	0*
+		(0)	(0)	(0)
+LISPremiumNegCub			-0**	-0**
+			(0)	(0)
+LISPremiumPosCub			-0**	-0
+			(0)	(0)
+LISPremiumNegQuart				-0**
+				(0)
+LISPremiumPosQuart				0
+				(0)
+				
+Observations	306	306	306	306
+R-squared	1.000	1.000	1.000	1.000
+Bandwidth	$4			
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
